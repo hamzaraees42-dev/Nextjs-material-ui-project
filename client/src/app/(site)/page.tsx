@@ -24,7 +24,7 @@ export default function Home() {
     <>
       <HeroSection />
 
-      {/* MARQUEE BETWEEN SECTIONS */}
+      {/* MARQUEE BETWEEN SECTION */}
       <Box sx={{ position: "relative", zIndex: 5 }}>
         <Box
           sx={{
